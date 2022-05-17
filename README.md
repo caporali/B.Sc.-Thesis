@@ -7,6 +7,14 @@ Title of the thesis:
 </ul>
 
 # Description
+The source code for the simulations can be found in the "(code)[url]" folder. it is completely written in Python (version 3.9.0) making use of the Pytorch module. <br>
+It consists of 3 main experiments found in the "(main)[url]" folder:
+<ul>
+  <li> torch_test, </li>
+  <li> exp_1, </li>
+  <li> exp_2. </li>
+</ul>
+All files are accompanied by comments and clarifications (written mostly in Italian). 
   
 # License
 The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to format and display that content is licensed under the [GNU General Public License v3.0]([https://creativecommons.org/licenses/by/4.0/](https://github.com/caporali/B.Sc.-Thesis/blob/main/LICENSE)).
