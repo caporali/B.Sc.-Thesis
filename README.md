@@ -1,4 +1,4 @@
-# B.Sc.-Thesis
+# B.Sc. Thesis
 <p> Thesis in applied mathematics focused on the study of deep neural networks (experiments in PyTorch). <p>
 Title of the thesis:
 <ul>
