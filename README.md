@@ -2,8 +2,8 @@
 <p> Thesis in applied mathematics focused on the study of deep neural networks (experiments in PyTorch). <p>
 Title of the thesis:
 <ul>
-  <li> "Reti neurali profonde: capacità di approssimazione e convergenza a processi gaussiani" (original) </li>
-  <li> "Deep neural networks: approximation capabilities and gaussian behaviour" (english version) </li>
+  <li> <em>Reti neurali profonde: capacità di approssimazione e convergenza a processi gaussiani</em> (original) </li>
+  <li> <em>Deep neural networks: approximation capabilities and gaussian behaviour</em> (english version) </li>
 </ul>
 
 # Description
