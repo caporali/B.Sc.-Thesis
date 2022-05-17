@@ -1,0 +1,14 @@
+0. collecting data of saved NN
+	- approximated function:
+		- f(x) = |x| e^x 
+		- range = [-1,1]
+		- n. samples = 50
+	- NN structure:
+		- n. di hidden layers = 4
+		- input size = 1
+		- output size = 1
+		- activation function = ReLU1
+		- growth parameter = 100
+		- type of growth = const
+
+1. plot of saved NN: modelf(x)
