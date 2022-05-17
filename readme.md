@@ -17,4 +17,4 @@ It consists of 3 main experiments found in the [main](https://github.com/caporal
 All files are accompanied by comments and clarifications (written mostly in Italian). <br>
   
 # License
-The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to format and display that content is licensed under the [GNU General Public License v3.0](https://github.com/caporali/B.Sc.-Thesis/blob/main/LICENSE).
+The content of this project itself is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), and the underlying source code used to format and display that content is licensed under the [GNU General Public License v3.0](https://github.com/caporali/B.Sc.-Thesis/blob/main/license).
