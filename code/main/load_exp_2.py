@@ -87,7 +87,7 @@ class NeuralNetwork(nn.Module):
 model = NeuralNetwork(inp.nh, inp.sizeinput, inp.sizeoutput, inp.growth, inp.ty).to(device)
 
 # 0.2
-model.load_state_dict(torch.load("save_NN/model.pt"))
+model.load_state_dict(torch.load("model.pt"))
 model.eval()
 
 
