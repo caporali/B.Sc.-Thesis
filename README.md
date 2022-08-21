@@ -7,7 +7,7 @@ Title of the thesis:
 </ul>
 
 # Description
-The source code for the simulations can be found in the [code](https://github.com/caporali/bsc_thesis/tree/main/code) folder. it is completely written in Python (version 3.9.0) making use of the Pytorch module. <br>
+The source code for the simulations can be found in the [code](https://github.com/caporali/bsc_thesis/tree/main/code) folder. it is completely written in Python (version 3.9.13) making use of the Pytorch module. <br>
 It consists of 3 main experiments found in the [main](https://github.com/caporali/bsc_thesis/tree/main/code/main) folder. The main codes to be executed are as follows:
 - [torch_test.py](https://github.com/caporali/bsc_thesis/tree/main/code/main/torch_test.py); 
 - [exp_1.py](https://github.com/caporali/bsc_thesis/tree/main/code/main/exp_1.py); 
