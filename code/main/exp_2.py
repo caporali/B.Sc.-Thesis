@@ -252,7 +252,7 @@ print("\n2. tests\n\t- ||modelf(x) - f(x)||_∞ =", uniform_norm, "\n\t- ||model
 toc()
 
 # 2.3
-torch.save(model.state_dict(), "save_NN/model.pt")
+torch.save(model.state_dict(), "model.pt")
 
 # 2.4
 print("\n2.1. plot:\n\t- scatter (gray)\n\t- f(x) (green)\n\t- modelf(x) (black)")
