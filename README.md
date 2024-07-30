@@ -2,8 +2,8 @@
 <p> Thesis in applied mathematics focused on the study of Deep Neural Networks (simulations in PyTorch). The work is written completely in Italian. <p>
 Title of the thesis:
 <ul>
-  <li> <em>Reti neurali profonde: capacità di approssimazione e convergenza a processi gaussiani</em> (original) </li>
-  <li> <em>Deep neural networks: approximation capabilities and gaussian behaviour</em> (english version) </li>
+  <li> <em>Reti neurali profonde: capacità di approssimazione e convergenza a processi Gaussiani</em> (original) </li>
+  <li> <em>Deep neural networks: approximation capabilities and Gaussian behaviour</em> (english version) </li>
 </ul>
 
 # Description
